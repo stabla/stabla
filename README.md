@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **personal tools to get new skills**
 - 🌱 I’m currently learning **ReactJS**
 - 👨‍💻 You can surf on my website for free [https://guillaumebonnet.fr](https://guillaumebonnet.fr)
-- 📝 Sometitmes I write articles on [https://stabla.blog.me](https://stabla.blog.me)
+- 📝 Sometitmes I write articles on [https://stabla.blog.me](https://blog.stabla.me)
 - 📫 How to reach me: **contact@guillaumebonnet.fr**
 - ⚡ Fun fact: **Kleenex tissues were originally intended for gas masks [see more here](https://www.kleenex.co.uk/history/)**
 

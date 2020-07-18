@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **personal tools to get new skills**
-- 🌱 I’m currently learning *ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 - 👨‍💻 You can surf on my website for free [https://guillaumebonnet.fr](https://guillaumebonnet.fr)
 - 📝 Sometitmes I write articles on [https://stabla.blog.me](stabla.blog.me)
 - 📫 How to reach me: **contact@guillaumebonnet.fr**

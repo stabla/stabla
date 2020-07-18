@@ -1,5 +1,4 @@
-### Hello, 👋 
-<h1 align="center">I'm Guillaume Bonnet</h1>
+<h1 align="center">Hi 👋, I'm Guillaume Bonnet</h1>
 <h3 align="center">A dreamer, builder, coder, interested into security based in Toulouse, France.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stabla" alt="stabla" /> </p>
 

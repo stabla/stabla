@@ -2,8 +2,7 @@
 <h3 align="center">A dreamer, builder, coder, interested about security. Based in Toulouse, France.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stabla" alt="stabla" /> </p>
 
-- 🔭 I’m currently studying.
-- 🌱 I’m currently learning **Kotlin**
+- 🔭 I’m currently working.
 - 👨‍💻 You can surf on my website for free [https://guillaumebonnet.fr](https://guillaumebonnet.fr)
 - 📝 Sometitmes I write articles on [https://stabla.blog.me](https://blog.stabla.me)
 - 📫 How to reach me: **contact@guillaumebonnet.fr**

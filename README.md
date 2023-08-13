@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guillaume Bonnet</h1>
-<h3 align="center">A dreamer, builder, coder, interested about security. Based in Toulouse, France.</h3>
+<h3 align="center">A dreamer, builder, coder, interested about security. Based in Salzburg, Österreich.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stabla" alt="stabla" /> </p>
 
-- 🔭 I’m currently working.
-- 👨‍💻 You can surf on my website for free [https://guillaumebonnet.fr](https://guillaumebonnet.fr)
+- 🔭 I’m currently working; in charge of the Vulnerability Management Service.
+- 👨‍💻 You can surf on my website [https://guillaumebonnet.fr](https://guillaumebonnet.fr)
 - 📝 Sometitmes I write articles on [https://stabla.blog.me](https://blog.stabla.me)
 - 📫 How to reach me: **contact@guillaumebonnet.fr**
 - ⚡ Fun fact: **The same person invented Aspirin and heroin...11 days apart (by a Bayer Company chemist, Felix Hoffmann**

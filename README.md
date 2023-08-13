@@ -6,7 +6,7 @@
 - 👨‍💻 You can surf on my website [https://guillaumebonnet.fr](https://guillaumebonnet.fr)
 - 📝 Sometitmes I write articles on [https://stabla.blog.me](https://blog.stabla.me)
 - 📫 How to reach me: **contact@guillaumebonnet.fr**
-- ⚡ Fun fact: **The same person invented Aspirin and heroin...11 days apart (by a Bayer Company chemist, Felix Hoffmann**
+- ⚡ Fun fact: **The same person invented Aspirin and heroin...11 days apart (by a Bayer Company chemist, Felix Hoffmann)**
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=stabla&show_icons=true" alt="stabla" /> </p>

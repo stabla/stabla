@@ -11,10 +11,6 @@ I work at **Akamai Technologies** keeping things safe during the day and break/b
 - **[vulneraibility.com](https://www.vulneraibility.com)** — AI-driven vulnerability intelligence
 - **[sec-news.ai](https://www.sec-news.ai)** — cybersecurity news & CVE alerts, powered by AI
 
-#### 🧠 Stuff I know too much about
-
-`Incident Response` `Vulnerability Management` `WAF` `Anti-DDoS` `Bot Management` `Breaking things responsibly`
-
 #### ☕ Fun fact
 
 > In 1999, hackers revealed a security flaw in Hotmail that let anybody log into any account using the password **'eh'**. It was called "the most widespread security incident in the history of the Web."

@@ -19,7 +19,7 @@ I work at **Akamai Technologies** keeping things safe during the day and break/b
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/guillaumebonnet.fr-000?style=flat-square&logo=safari&logoColor=white)](https://www.guillaumebonnet.fr)
+[![Website](https://img.shields.io/badge/stabla.me-000?style=flat-square&logo=safari&logoColor=white)](https://www.stabla.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gs-bonnet/)
 
 </div>

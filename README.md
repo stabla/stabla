@@ -8,8 +8,12 @@ I work at **Akamai Technologies** keeping things safe during the day and break/b
 
 #### 🔨 Side projects
 
-- **[vulneraibility.com](https://www.vulneraibility.com)** — AI-driven vulnerability intelligence
-- **[sec-news.ai](https://www.sec-news.ai)** — cybersecurity news & CVE alerts, powered by AI
+- **[vulneraibility.com](https://www.vulneraibility.com)** — Agent-less vulnerability management with AI-enriched CVEs
+- **[swissknaife.com](https://www.swissknaife.com)** — AI-powered financial tools for smarter investing
+- **[feedgram.app](https://www.feedgram.app)** — Turn user feedback into actionable insights
+- **[internetbookproject.com](https://www.internetbookproject.com)** — A collaborative story built by everyone, one branch at a time
+- **[derpromptus.com](https://www.derpromptus.com)** — Craft, organize and share AI prompts
+- <!-- - **[sec-news.ai](https://www.sec-news.ai)** — cybersecurity news & CVE alerts, powered by AI -->
 
 #### ☕ Fun fact
 

@@ -13,7 +13,7 @@ I work at **Akamai Technologies** keeping things safe during the day and break/b
 - **[feedgram.app](https://www.feedgram.app)** — Turn user feedback into actionable insights
 - **[internetbookproject.com](https://www.internetbookproject.com)** — A collaborative story built by everyone, one branch at a time
 - **[derpromptus.com](https://www.derpromptus.com)** — Craft, organize and share AI prompts
-- <!-- - **[sec-news.ai](https://www.sec-news.ai)** — cybersecurity news & CVE alerts, powered by AI -->
+<!-- - **[sec-news.ai](https://www.sec-news.ai)** — cybersecurity news & CVE alerts, powered by AI -->
 
 #### ☕ Fun fact
 
